@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\bin\Debug\net5.0\Roman.exe
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\bin\Debug\net5.0\Roman.deps.json
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\bin\Debug\net5.0\Roman.runtimeconfig.json
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\bin\Debug\net5.0\Roman.runtimeconfig.dev.json
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\bin\Debug\net5.0\Roman.dll
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\bin\Debug\net5.0\ref\Roman.dll
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\bin\Debug\net5.0\Roman.pdb
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\obj\Debug\net5.0\Roman.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\obj\Debug\net5.0\Roman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\obj\Debug\net5.0\Roman.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\obj\Debug\net5.0\Roman.AssemblyInfo.cs
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\obj\Debug\net5.0\Roman.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\obj\Debug\net5.0\Roman.dll
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\obj\Debug\net5.0\ref\Roman.dll
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\obj\Debug\net5.0\Roman.pdb
+C:\Users\user\source\repos\Roman_Numbers\Roman_Numbers\obj\Debug\net5.0\Roman.genruntimeconfig.cache
